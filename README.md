@@ -8,3 +8,7 @@ delicious recipes with detailed instructions.
 - [Neapolitan Pizza](./recipes/pizza.html)
 - [Ground Beef Tacos](./recipes/ground-beef-tacos.html)
 - [Chocolate Chip Cookies](./recipes/chocolate-chip-cookies.html)
+
+---
+
+[Live Preview](https://issakass.github.io/odin-recipes/)
