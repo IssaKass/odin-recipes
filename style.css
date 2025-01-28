@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+body {
+	background-color: rgb(234, 244, 252);
+	font-family: "Roboto", serif;
+}
+
+h1 {
+	text-align: center;
+	font-size: 40px;
+	font-weight: 900;
+}
+
+h2 {
+	font-size: 28px;
+}
+
+li a {
+	font-size: 20px;
+	color: blue;
+}
+
+.recipe-image {
+	width: 400px;
+	height: auto;
+}
+
+.recipe-description {
+	font-size: 18px;
+}
+
+.ingredients-list,
+.steps-list {
+	background-color: rgb(215, 235, 251);
+}
+
+.back-home {
+	background-color: hsl(180, 100%, 27%);
+	color: white;
+	font-size: 16px;
+	font-weight: 600;
+}
