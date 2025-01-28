@@ -34,6 +34,10 @@ li a {
 	background-color: rgb(215, 235, 251);
 }
 
+.ingredients-list em {
+	color: #777;
+}
+
 .back-home {
 	background-color: hsl(180, 100%, 27%);
 	color: white;
